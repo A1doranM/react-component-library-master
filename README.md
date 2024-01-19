@@ -1,22 +1,16 @@
 # React Component Library
 
-[![Build status](https://badge.buildkite.com/90ff98db996bb137c5be1bdce666c4b1ce68a25b17af0a6a04.svg?branch=master)](https://buildkite.com/harvey/react-component-library)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://badge.buildkite.com/90ff98db996bb137c5be1bdce666c4b1ce68a25b17af0a6a04.svg?branch=master)](https://buildkite.com/harvey/react-component-library)
 
 This project skeleton was created to help people get started with creating their own React component library using:
 
 - [Rollup](https://github.com/rollup/rollup)
 - [TypeScript](https://www.typescriptlang.org/)
-- ~~Sass~~ (This dependency has been removed, see [Using CSS Preprocessors](#using-css-preprocessors) on how to support it)
 
 It also features:
 
 - [Storybook](https://storybook.js.org/) to help you create and show off your components
 - [Jest](https://jestjs.io/) and [React Testing Library](https://github.com/testing-library/react-testing-library) enabling testing of the components
-
-[**Read my blog post about why and how I created this project skeleton ▸**](https://blog.harveydelaney.com/creating-your-own-react-component-library/)
-
-[Check out this CodeSandbox to see the component library in action ▸](https://codesandbox.io/s/harvey-component-library-example-y2b60)
 
 ## Development
 
@@ -179,8 +173,6 @@ const App = () => (
 
 export default App;
 ```
-
-[Check out this Code Sandbox for a live example.](https://codesandbox.io/s/harvey-component-library-example-y2b60?file=/src/App.js)
 
 ### Using Component Library CSS Variables
 
