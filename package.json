@@ -17,10 +17,6 @@
     "generate": "node ./util/create-component",
     "prepublishOnly": "npm run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HarveyD/react-component-library.git"
-  },
   "keywords": [
     "React",
     "Component",
@@ -30,12 +26,6 @@
     "Sass",
     "Storybook"
   ],
-  "author": "Harvey Delaney",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HarveyD/react-component-library/issues"
-  },
-  "homepage": "https://github.com/HarveyD/react-component-library#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
